@@ -1,23 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,100..1000&display=swap');
 
-:root{
-    
-- Purple 100: #DCD1FC
-- Purple 500: #7651DC
-
-- Yellow 100: #FAEEE2
-- Yellow 500: #FFCC69
-
-- White: hsl(0, 0%, 100%)
-- Black: hsl(0, 0%, 7%)
-
-    --ff-main: "DM Sans", sans-serif;
-    --fs-body: 1.125rem;
-    --fs-heading: 1.75rem;
-
-    --fw-400: 400;
-    --fw-500: 500;
-}
 
 *,*::before,*::after{
     margin: 0;
